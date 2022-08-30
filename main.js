@@ -3,7 +3,7 @@ import { Calculadora } from "./calc.js";
 
 const calc = new Calculadora("Main");
 const x = 5;
-const y = 8;
+const y = 5;
 
 console.log("Calc não é nulo: " + calc);
 console.log("X = " + x);
